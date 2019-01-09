@@ -1,0 +1,13 @@
+.lineitem-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.lineitem-label{
+    font-size: 14px;
+    text-decoration: underline;
+}
+.lineitem-value{
+    font-weight: bold;
+    color: red;
+}

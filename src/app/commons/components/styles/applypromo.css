@@ -1,0 +1,24 @@
+.applypromo-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.applypromo-input-container{
+    font-size: 14px;
+    flex-basis: 67%
+}
+.promo-input{
+    width: 100%;
+    height: 100%;
+}
+.applypromo-button-container{
+    height: 21px;
+}
+.promo-button{
+    margin-top: 2px;
+    border-radius: 12px;
+    height: 100%;
+    outline: none;
+    border: 1px solid;
+    cursor: pointer;
+}

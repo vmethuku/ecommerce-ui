@@ -1,0 +1,18 @@
+.grandtotal-container{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #e6e7e8;
+    border-bottom: 1px solid #e6e7e8;
+    padding: 10px 0;
+    margin: 10px 0;
+    color: #000;
+    line-height: 16px;
+}
+.grandtotal-label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.grandtotal-value{
+    font-size: 20px;
+    font-weight: bold;
+}

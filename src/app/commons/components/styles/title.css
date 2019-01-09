@@ -1,0 +1,12 @@
+.title-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    position: absolute;
+    top: 11px;
+    background: white;
+    left: -50px;
+    height: fit-content;
+    max-width: 200px;
+    font-size: 12px;
+}

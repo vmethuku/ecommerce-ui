@@ -1,0 +1,32 @@
+.card{
+    margin: auto;
+    width: 15%;
+    border: 1px solid #e6e7e8;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.16);
+    padding: 10px;
+}
+
+.item-details-container{
+    border-bottom: 1px solid #e6e7e8;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+.anchor-container{
+    display: flex;
+    text-underline-position: under;
+}
+.item-details-anchor{
+    text-decoration: underline;
+    cursor: pointer;
+    }
+
+    .item-details-icon{
+        cursor: pointer;
+        padding-left: 11px;
+        font-size: 20px;
+        }
+        .pickup-container{
+            position: relative;
+        }

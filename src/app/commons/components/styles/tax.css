@@ -1,0 +1,11 @@
+.tax-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.tax-label{
+    font-size: 14px;
+}
+.tax-value{
+    font-weight: bold;
+}

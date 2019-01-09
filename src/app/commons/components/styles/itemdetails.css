@@ -1,0 +1,31 @@
+.itemdetails-container{
+    display: flex;
+    margin: 5px;
+}
+.itemdetails-image-container{
+    flex-basis: 35%;
+}
+.itemdetails-desc{
+    font-size: 15px;
+}
+.item-logo{
+    width: 50px;
+    height: 50px;
+}
+.item-details-price-container{
+    margin-top:3px; 
+    display: flex;
+    flex-direction: column;
+}
+.item-discounted-price-container{
+    margin-top:3px; 
+    display: flex;
+    justify-content: space-between;
+}
+.item-discounted-price{
+    font-weight: bold;
+}
+.item-price{
+    text-decoration: line-through;
+    margin-top: 3px;
+}

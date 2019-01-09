@@ -1,0 +1,11 @@
+.subtotal-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.subtotal-label{
+    font-size: 14px;
+}
+.subtotal-value{
+    font-weight: bold;
+}
